@@ -3,7 +3,9 @@ nav:
   - Home: index.md
   - 絶アルテマ: 絶アルテマ.md
 theme:
-  name: readthedocs
+  name: material
+  palette:
+    scheme: slate
 markdown_extensions:
     - pymdownx.emoji:
         emoji_index: !!python/name:materialx.emoji.twemoji
